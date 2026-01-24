@@ -1,8 +1,6 @@
 # Hi, I'm Justin 
 
-Software developer with 5+ years of experience working at startups. I love working in smaller companies where I'm closer to the team, product, and customer.
-
-I spend my free time building side projects, and I hope the care I have for the people I work with and the people that use what I build shines through.
+📍 Amsterdam ↔ Windhoek
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
