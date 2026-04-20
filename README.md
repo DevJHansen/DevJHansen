@@ -14,7 +14,6 @@
 
 ## Side Projects
 
-- 🚀 **[letterlaunch.app](https://letterlaunch.app)** — The easiest way to start your newsletter
 - 📰 **[Headlines.com.na](https://www.linkedin.com/company/headlines-com-na/)** — Namibian Business News Aggregator
 - 🔄 **[go-reload](https://github.com/DevJHansen/go-reload)** — A hot reload tool for Go
 - 🎯 **[YouTube ForYou](https://chromewebstore.google.com/detail/youtube-foryou/nhaloeaadnlfdjablkfeccgalmegcfek)** — A Chrome extension that blocks YouTube's distracting homepage and replaces it with a focused search bar
