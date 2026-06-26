@@ -14,6 +14,7 @@
 
 ## Side Projects
 
+- ⌨️  **[Flow](http://github.com/devJHansen/flow)** — A background macOS daemon that maps keyboard hotkeys to launching/focusing apps
 - 📰 **[Headlines.com.na](https://www.linkedin.com/company/headlines-com-na/)** — Namibian Business News Aggregator
 - 🔄 **[Reload](https://github.com/DevJHansen/reload)** — A hot reload tool for Go
 - 🎯 **[YouTube ForYou](https://chromewebstore.google.com/detail/youtube-foryou/nhaloeaadnlfdjablkfeccgalmegcfek)** — A Chrome extension that blocks YouTube's distracting homepage and replaces it with a focused search bar
